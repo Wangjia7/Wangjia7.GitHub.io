@@ -5,17 +5,19 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Education
-- **2022 – :** PhD candidate, Astronomy, Shanghai Jiaotong University
+- **2022 – :**
+  - PhD candidate, Astronomy, Shanghai Jiaotong University
 - **2018 – 2022:**
   - B.Sc. Astronomy, Shanghai Jiaotong University. Thesis title: Weak-lensing measurement on galaxy groups in DESI Legacy imaging survey.
   - Minor in Philosophy, Shanghai Jiaotong University
 
-
-
 # Research interest
-- Data & method
+- Data & method: Weak-lensing
 - Science
-- Collabaration
+  - assembly bias
+  - cosmology  
+- Collabaration:
+- 
 
 
 # Skills
