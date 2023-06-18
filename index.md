@@ -34,7 +34,7 @@ Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong Un
 Lecturer: Yuxing Wang, Department of physics and Astronomy, Shanghai Jiao Tong University.
 
 ## Lectures
-1. _Start from 2021:_ series of lectures in Guang Qi observatory. [光启论坛 Guang Qi forum](https://mp.weixin.qq.com/s/BKw37KsktRB0j6_KYSRl9Q)
+1. _Start from 2021:_ series of lectures in Guang Qi observatory. [光启论坛](https://mp.weixin.qq.com/s/BKw37KsktRB0j6_KYSRl9Q)
 2. _Oct. 2020:_ Lecture, Fingerprints of the Universe. 
 Fu Xing High School. [《宇宙的指纹》科普讲座](https://mp.weixin.qq.com/s/cbqqSoufSXsaCyOILQAt1w)
 3. _Mar. 2021:_ Lecture, Queries to the Heaven.
@@ -42,7 +42,10 @@ Tongji University affiliated High School No.1. [《天问》科普讲座](https:
 4. _Dec. 2021:_ Lecture, The Development of Astronomy in China in One Hundred Years.
 Fu Xing High School. [《百年问天》科普讲座](https://mp.weixin.qq.com/s/4WaFq7a022pstIDi5kws7g)
 5. _Oct. 2022:_ Lecture, Where Do We Come From? an Astrophysical View.
-Shanghai Jiao Tong University affiliated High School, Minhang Branch.
+Shanghai Jiao Tong University affiliated High School, Minhang Branch. [《我们从哪里来？》科普讲座](https://mp.weixin.qq.com/s/TIPV4WRCXi095LD_17pkZQ)
+
+## Conference Talks
+1. DESI 2022 June meeting.
 
 ## Social
 [寻找璀璨星空——上海城市光污染调研](https://mp.weixin.qq.com/s/C7k70IMGeFlXbigYe2_rqA)
