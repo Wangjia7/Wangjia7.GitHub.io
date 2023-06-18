@@ -22,7 +22,7 @@
 # Skills
 1. Language: English(C1), French(A2)
 2. Coding: python, Fortran, Latex
-3. Misc: photography,
+3. Misc: photography 📷, hiking 🧗, rowing 🚣 and swimming 🏊
 
 
 # Experience
