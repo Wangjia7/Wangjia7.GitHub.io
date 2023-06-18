@@ -67,9 +67,12 @@ China. RMB 8,000.
 - _2019:_  **Annual scholarship of National Astronomy Observatory。** Chinese Academy of Science.
 Awarded by National Astronomy Observatory, CAS. RMB 3,000.
 
+
+- _2021:_ 上海交通大学物理与天文学院“优秀党员”
 - _2019-2021:_  上海交通大学校A等奖学金
 - _2020:_  上海交通大学“优秀团干部“ 
 - _2020:_ 中国大学生数学建模大赛（CUMCM）国家二等奖，上海市一等奖；
+- _2019:_  上海交通大学“三好学生”、 “优秀团员”   
 - _2019:_  **上海市大学生学术物理竞赛** 一等奖、个人最佳反方
 
 
