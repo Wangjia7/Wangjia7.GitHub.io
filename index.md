@@ -26,22 +26,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Experience
 ## Teaching
-1. **2023 Spring:** Teaching Assistant, **Experiment of College Physics.**
+1. _2022 Spring:_ Teaching Assistant, **Astrophysics Frontiers.**
+Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong University.
+2. _2022 Autumn:_ Teaching Assistant, **Introduction to Astrophysics.**
+Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong University.
+3. _2023 Spring:_ Teaching Assistant, **Experiment of College Physics.**
 Lecturer: Yuxing Wang, Department of physics and Astronomy, Shanghai Jiao Tong University.
-2. **2022 Autumn:** Teaching Assistant, **Introduction to Astrophysics.**
-Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong University.
-3. **2022 Spring:** Teaching Assistant, **Astrophysics Frontiers.**
-Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong University.
 
 ## Science popularization
-Oct. 2022 ] Lecture, Where Do We Come From? an Astrophysical View.
-Shanghai Jiao Tong University affiliated High School, Minhang Branch.
-Dec. 2021 ] Lecture, The Development of Astronomy in China in One Hundred Years.
+1. _Oct. 2020_ Lecture, Fingerprints of the Universe.
 Fu Xing High School.
-Mar. 2021 ] Lecture, Queries to the Heaven.
+2. _Mar. 2021_ Lecture, Queries to the Heaven.
 Tongji University affiliated High School No.1.
-Oct. 2020 ] Lecture, Fingerprints of the Universe.
+3. _Dec. 2021_ Lecture, The Development of Astronomy in China in One Hundred Years.
 Fu Xing High School.
+4. _Oct. 2022_ Lecture, Where Do We Come From? an Astrophysical View.
+Shanghai Jiao Tong University affiliated High School, Minhang Branch.
+
+
+
 
 # Honors and Awards
 - _2022:_ **Certificate of Excellent Bachelor Thesis.** Awarded by Shanghai Jiaotong University.
