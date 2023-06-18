@@ -16,9 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 - Data & method
-	- [ ] AB symmetrization to deal with redshift error[[课题：红移误差进度表]], [[红移误差log]]
-		- [ ] further mock check
-		- [ ] real data check
+	- AB symmetrization to deal with redshift error[[课题：红移误差进度表]], [[红移误差log]]
+	- further mock check
+	- real data check
 	- [ ] shapepipe & CSST mock configuration
 - Science
 	- [x] WL + halo mass function
