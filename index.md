@@ -33,14 +33,15 @@ Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong Un
 3. _2023 Spring:_ Teaching Assistant, **Experiment of College Physics.**
 Lecturer: Yuxing Wang, Department of physics and Astronomy, Shanghai Jiao Tong University.
 
-## Science popularization
-1. _Oct. 2020_ Lecture, Fingerprints of the Universe.
+## Lectures
+1. _Start from 2021:_ series of lectures in Guang Qi observatory.
+2. _Oct. 2020:_ Lecture, Fingerprints of the Universe.
 Fu Xing High School.
-2. _Mar. 2021_ Lecture, Queries to the Heaven.
+3. _Mar. 2021:_ Lecture, Queries to the Heaven.
 Tongji University affiliated High School No.1.
-3. _Dec. 2021_ Lecture, The Development of Astronomy in China in One Hundred Years.
+4. _Dec. 2021:_ Lecture, The Development of Astronomy in China in One Hundred Years.
 Fu Xing High School.
-4. _Oct. 2022_ Lecture, Where Do We Come From? an Astrophysical View.
+5. _Oct. 2022:_ Lecture, Where Do We Come From? an Astrophysical View.
 Shanghai Jiao Tong University affiliated High School, Minhang Branch.
 
 
