@@ -1,4 +1,4 @@
-## Welcome to Jiaqi Wang's Pages
+# Welcome to Jacqueline Wang 王佳琪's Pages
 
 # Education
 - **2022 – now :**
