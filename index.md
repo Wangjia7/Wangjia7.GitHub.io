@@ -4,9 +4,11 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Education
+- 2018 – 2022
+B.Sc. Astronomy, Shanghai Jiaotong University
+Thesis title: Weak-lensing measurement on galaxy groups in DESI Legacy imaging survey.
+Minor in Philosophy, Shanghai Jiaotong University
 
 ```markdown
 Syntax highlighted code block
