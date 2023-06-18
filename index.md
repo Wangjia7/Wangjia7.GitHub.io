@@ -1,9 +1,5 @@
 ## Welcome to Jiaqi Wang's Pages
 
-%You can use the [editor on GitHub](https://github.com/Wangjia7/jqwang.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Education
 - **2022 – now :**
   - PhD candidate, Astronomy, Shanghai Jiaotong University
@@ -43,7 +39,7 @@ Lecturer: Jiaxin Han, Department of physics and Astronomy, Shanghai Jiao Tong Un
 Lecturer: Yuxing Wang, Department of physics and Astronomy, Shanghai Jiao Tong University.
 
 ## Lectures
-1. _Start from 2021:_ series of lectures in Guang Qi observatory. [光启论坛](https://mp.weixin.qq.com/s/BKw37KsktRB0j6_KYSRl9Q)
+1. _Start from 2021:_ A series of lectures in Guangqi observatory, Shanghai Jiaotong University. [光启论坛](https://mp.weixin.qq.com/s/BKw37KsktRB0j6_KYSRl9Q)
 2. _Oct. 2020:_ Lecture, Fingerprints of the Universe. 
 Fu Xing High School. [《宇宙的指纹》科普讲座](https://mp.weixin.qq.com/s/cbqqSoufSXsaCyOILQAt1w)
 3. _Mar. 2021:_ Lecture, Queries to the Heaven.
@@ -54,7 +50,7 @@ Fu Xing High School. [《百年问天》科普讲座](https://mp.weixin.qq.com/s
 Shanghai Jiao Tong University affiliated High School, Minhang Branch. [《我们从哪里来？》科普讲座](https://mp.weixin.qq.com/s/TIPV4WRCXi095LD_17pkZQ)
 
 
-## Social
+## Social Works
 1. _2018-2022:_ F1807005、F1807006班级团支部书记；
 2. _2019-2020:_ 物理与天文学院学生会主席，统筹志愿者服务和科普工作，[科学字典](https://mp.weixin.qq.com/s/ivgRe7skVEhCxHWCM-FH3Q) ；
 3. _2019-2021:_ 参与学院重点社会实践，两次担任团长，获得2019年社会实践“先进个人”， [寻找璀璨星空——上海城市光污染调研](https://mp.weixin.qq.com/s/C7k70IMGeFlXbigYe2_rqA) ；
