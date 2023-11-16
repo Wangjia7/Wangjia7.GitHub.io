@@ -51,10 +51,10 @@ Fu Xing High School. [《百年问天》科普讲座](https://mp.weixin.qq.com/s
 Shanghai Jiao Tong University affiliated High School, Minhang Branch. [《我们从哪里来？》科普讲座](https://mp.weixin.qq.com/s/TIPV4WRCXi095LD_17pkZQ)
 
 
-## Social Works
-1. _2018-2022:_ F1807005、F1807006班级团支部书记；
-2. _2019-2020:_ 物理与天文学院学生会主席，统筹志愿者服务和科普工作，[科学字典](https://mp.weixin.qq.com/s/ivgRe7skVEhCxHWCM-FH3Q) ；
-3. _2019-2021:_ 参与学院重点社会实践，两次担任团长，获得2019年社会实践“先进个人”， [寻找璀璨星空——上海城市光污染调研](https://mp.weixin.qq.com/s/C7k70IMGeFlXbigYe2_rqA) ；
+%## Social Works
+%1. _2018-2022:_ F1807005、F1807006班级团支部书记；
+%2. _2019-2020:_ 物理与天文学院学生会主席，统筹志愿者服务和科普工作，[科学字典](https://mp.weixin.qq.com/s/ivgRe7skVEhCxHWCM-FH3Q) ；
+%3. _2019-2021:_ 参与学院重点社会实践，两次担任团长，获得2019年社会实践“先进个人”， [寻找璀璨星空——上海城市光污染调研](https://mp.weixin.qq.com/s/C7k70IMGeFlXbigYe2_rqA) ；
 
 
 # Honors and Awards
