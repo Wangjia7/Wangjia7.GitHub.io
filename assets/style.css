@@ -37,3 +37,13 @@
 
 #motion-toggle{border:0;border-bottom:1px solid #a4b5db;background:none;font-size:11px;padding:7px 0;min-height:36px;color:var(--blue)}#motion-toggle:disabled{opacity:.45;cursor:default}.particle-interaction{flex-wrap:wrap;max-width:370px}.particle-interaction>span{flex-basis:100%}
 @media(max-width:700px){.particle-interaction{max-width:none}.particle-interaction>span{flex-basis:auto}}
+
+.collaboration-intro{max-width:75ch;color:var(--muted);font-size:14px;line-height:2;margin-bottom:28px}
+.more-collaborations summary{display:flex;align-items:center;gap:24px;padding:24px 0;cursor:pointer;list-style:none;font-size:14px;color:var(--blue);min-height:64px}
+.more-collaborations summary::-webkit-details-marker{display:none}
+.more-collaborations summary:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
+.more-collaborations summary svg{width:18px;margin-left:auto}
+.more-collaborations[open] summary svg{transform:rotate(180deg)}
+.collaboration-years{font-size:12px;color:var(--muted)}
+.journal-link{margin-left:24px}
+@media(max-width:700px){.more-collaborations summary{font-size:13px;gap:16px}.collaboration-years{font-size:11px}.coauthor-heading>p{line-height:1.8}.collaboration-intro{margin-bottom:24px}}

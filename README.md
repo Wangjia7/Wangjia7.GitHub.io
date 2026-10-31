@@ -28,3 +28,18 @@ GitHub Pages serves the root of the `gh-pages` branch. Commit updates to that br
 Education and outreach: the previous homepage and public profile https://github.com/Wangjia7. Research links: https://arxiv.org/abs/2604.02300 and https://arxiv.org/abs/2207.12771, https://arxiv.org/abs/2510.20896 and https://arxiv.org/abs/2205.01816. Creative project descriptions are based on their public repositories.
 
 The cosmic web and wave figures are procedural conceptual illustrations, not simulation results or audio previews. The network slowly evolves, and its anchors respond to the pointer. Filament particles, halo nodes and loop polygons all share those moving anchors, so Structure, Nodes and Loops stay aligned. Click or use the scatter button to disperse the network; pause/resume is available. Animation pauses offscreen and in hidden tabs, and reduced-motion preferences render a static diagram. There is no analytics, external runtime font service, server, or contact-form data collection.
+
+## Collaborative research
+
+The homepage includes 10 distinct coauthored studies, with bilingual summaries and original-paper links. Four recent studies appear immediately; six earlier studies expand through the native disclosure. Publication years are used where verified (including the 2026 ApJ eROSITA article); the 2026 DESI size-lensing and ELUCID-DESI papers are labeled preprints. Summaries describe the work, without assigning an unverified individual contribution.
+
+Additional primary sources:
+- https://arxiv.org/abs/2609.09151
+- https://arxiv.org/abs/2608.26668
+- https://arxiv.org/abs/2511.14216
+- https://arxiv.org/abs/2312.17459
+- https://arxiv.org/abs/2402.10740
+- https://arxiv.org/abs/2403.10754
+- https://arxiv.org/abs/2309.01039
+- https://arxiv.org/abs/2212.13270
+- https://durham-repository.worktribe.com/output/4998808
