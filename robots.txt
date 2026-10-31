@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wangjia7.github.io/sitemap.xml
