@@ -95,3 +95,17 @@ body{padding-left:var(--sidebar-width)}
 .ai-question .ai-boundary{font-size:14px;margin-top:18px}
 .ai-thread{max-width:72ch;padding-top:28px;border-top:1px solid var(--line);font-size:17px}
 .mentor-photo img{height:auto;max-width:100%;object-fit:contain}
+
+/* Justified prose; final lines retain their natural width. */
+main p:not(.chinese-name):not(.paper-authors):not(.paper-meta):not(.view-description):not(.ai-kind):not(.position){
+ text-align:justify;
+ text-align-last:start;
+ text-justify:auto;
+ hyphens:auto;
+ overflow-wrap:break-word;
+}
+html[lang^="zh"] main p{hyphens:none;text-justify:inter-ideograph}
+
+.art-works{margin-bottom:64px}.art-work{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:36px;align-items:start;padding:40px 0;border-bottom:1px solid var(--line)}
+.art-work img{display:block;width:100%;height:auto}.art-work h3{font-size:26px;margin-bottom:20px}.art-work p{font-size:16px;margin-bottom:16px}
+@media(max-width:800px){.art-work{grid-template-columns:1fr;gap:24px}}
