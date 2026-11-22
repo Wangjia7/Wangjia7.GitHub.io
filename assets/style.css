@@ -89,3 +89,9 @@ body{padding-left:var(--sidebar-width)}
 [id]{scroll-margin-top:28px}
 @media(max-width:1100px){:root{--sidebar-width:216px;--gutter:28px}.topic-sidebar{padding:24px 16px}.hero{gap:24px;grid-template-columns:minmax(0,1fr) 170px}.interest-index{grid-template-columns:1fr}.site-header nav{gap:16px}.contact-link{display:none}}
 @media(max-width:800px){body{padding-left:0}.topic-sidebar{position:relative;width:auto;padding:20px 24px;border-right:0;border-bottom:1px solid var(--line)}.sidebar-name,.sidebar-bottom{display:none}.topic-sidebar nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.nav-group{margin:0}.nav-group h2{font-size:16px}.nav-group a{font-size:14px;padding:7px 0}.site-header nav{margin:0;gap:16px}.ai-question{grid-template-columns:1fr;gap:16px}.hero{grid-template-columns:minmax(0,1fr) 100px}.site-header{gap:12px}.header-actions{gap:12px}}
+
+.ai-overview{max-width:72ch;margin-bottom:40px}.ai-overview p{font-size:17px;line-height:1.9;margin-bottom:18px}
+.ai-question .ai-kind{font-size:14px;color:var(--blue);margin-bottom:14px}
+.ai-question .ai-boundary{font-size:14px;margin-top:18px}
+.ai-thread{max-width:72ch;padding-top:28px;border-top:1px solid var(--line);font-size:17px}
+.mentor-photo img{height:auto;max-width:100%;object-fit:contain}
