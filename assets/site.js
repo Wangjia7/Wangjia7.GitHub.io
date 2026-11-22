@@ -211,3 +211,18 @@
   document.fonts.ready.then(resize);
   setLanguage(language);drawSonic();syncMotion();
 })();
+
+(() => {
+ const links = [...document.querySelectorAll('.topic-sidebar nav a')];
+ const targets = links.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
+ if (!('IntersectionObserver' in window)) return;
+ const observer = new IntersectionObserver(entries => {
+   const current = entries.filter(e => e.isIntersecting).sort((a,b) => a.boundingClientRect.top-b.boundingClientRect.top)[0];
+   if (!current) return;
+   links.forEach(a => {
+     if(a.getAttribute('href') === '#' + current.target.id) a.setAttribute('aria-current','location');
+     else a.removeAttribute('aria-current');
+   });
+ }, {rootMargin:'-5% 0px -65% 0px',threshold:0});
+ targets.forEach(t => observer.observe(t));
+})();

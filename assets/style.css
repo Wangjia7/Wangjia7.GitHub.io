@@ -74,3 +74,18 @@ body{font-size:16px}
 .figure-tools{grid-column:1/-1;grid-row:3}.hero-footer{grid-column:1/-1;grid-row:5}
 .about-details,.mentor-photo{grid-column:auto;grid-row:auto}.quick-links{gap:16px}
 }
+
+/* Persistent interest navigation */
+:root{--sidebar-width:244px}
+body{padding-left:var(--sidebar-width)}
+.topic-sidebar{position:fixed;inset:0 auto 0 0;width:var(--sidebar-width);overflow-y:auto;background:var(--white);border-right:1px solid var(--line);padding:32px 24px;z-index:5}
+.sidebar-name{font-size:22px;font-weight:600;display:block;margin-bottom:28px}.sidebar-name span{display:block;font-size:14px;font-weight:400;color:var(--muted);margin-top:4px}
+.nav-group{margin-bottom:24px}.nav-group h2{font-size:16px;margin-bottom:8px}.nav-group a{display:block;font-size:14px;line-height:1.5;padding:9px 10px;color:var(--muted);border-radius:4px}
+.nav-group a:hover,.nav-group a[aria-current="location"]{background:var(--paper);color:var(--blue)}
+.sidebar-bottom{border-top:1px solid var(--line);padding-top:16px;display:flex;gap:24px;font-size:14px}
+.site-header{height:76px}.site-header nav{gap:24px;margin-right:20px}
+.interest-index{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin-bottom:48px;border-block:1px solid var(--line);padding:32px 0}.interest-index h3{font-size:20px;margin-bottom:16px}.interest-index p{font-size:16px;color:var(--muted)}
+.ai-section{background:var(--paper)}.ai-introduction{font-size:18px;max-width:65ch;margin-bottom:40px}.ai-question{display:grid;grid-template-columns:1fr 2fr;gap:40px;padding:28px 0;border-top:1px solid #b7c5e1}.ai-question h3{font-size:23px}.ai-question p{max-width:65ch;font-size:16px;color:var(--muted)}
+[id]{scroll-margin-top:28px}
+@media(max-width:1100px){:root{--sidebar-width:216px;--gutter:28px}.topic-sidebar{padding:24px 16px}.hero{gap:24px;grid-template-columns:minmax(0,1fr) 170px}.interest-index{grid-template-columns:1fr}.site-header nav{gap:16px}.contact-link{display:none}}
+@media(max-width:800px){body{padding-left:0}.topic-sidebar{position:relative;width:auto;padding:20px 24px;border-right:0;border-bottom:1px solid var(--line)}.sidebar-name,.sidebar-bottom{display:none}.topic-sidebar nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.nav-group{margin:0}.nav-group h2{font-size:16px}.nav-group a{font-size:14px;padding:7px 0}.site-header nav{margin:0;gap:16px}.ai-question{grid-template-columns:1fr;gap:16px}.hero{grid-template-columns:minmax(0,1fr) 100px}.site-header{gap:12px}.header-actions{gap:12px}}
