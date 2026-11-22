@@ -181,6 +181,7 @@
   if('IntersectionObserver' in window)new IntersectionObserver(entries=>{pageVisible=entries[0].isIntersecting;if(pageVisible)startNetwork();else stopNetwork();},{threshold:.01}).observe(hero);
   function drawSonic() {
     const target = document.querySelector('#sonic-lines');
+    if (!target) return;
     const size=fit(target);
     if(!size)return;
     const {context:c,width:w,height:h}=size;
