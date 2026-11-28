@@ -120,3 +120,5 @@ html[lang^="zh"] main p{hyphens:none;text-justify:inter-ideograph}
 .sound-media{min-width:0}.sound-media .video-player{margin-top:0}
 .art-work>.small-link{grid-column:auto}
 .research-figure img[src$="fp-lensing-result.svg"]{max-height:430px}
+
+.research-statement{grid-column:1/-1;max-width:75ch;color:var(--muted)}.research-statement p{font-size:16px;line-height:1.9}.research-statement p+p{margin-top:24px}.research-intro:has(.research-statement){gap:24px}.research-statement+.research-topics{grid-column:1/-1}
